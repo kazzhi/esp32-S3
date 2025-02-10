@@ -128,6 +128,7 @@ C:/Users/kathe/helloworld/build/esp-idf/esptool_py/CMakeFiles/install/local.dir
 C:/Users/kathe/helloworld/build/esp-idf/esptool_py/CMakeFiles/install/strip.dir
 C:/Users/kathe/helloworld/build/esp-idf/partition_table/CMakeFiles/partition_table_bin.dir
 C:/Users/kathe/helloworld/build/esp-idf/partition_table/CMakeFiles/partition-table.dir
+C:/Users/kathe/helloworld/build/esp-idf/partition_table/CMakeFiles/partition_table.dir
 C:/Users/kathe/helloworld/build/esp-idf/partition_table/CMakeFiles/partition-table-flash.dir
 C:/Users/kathe/helloworld/build/esp-idf/partition_table/CMakeFiles/encrypted-partition-table-flash.dir
 C:/Users/kathe/helloworld/build/esp-idf/partition_table/CMakeFiles/partition_table-flash.dir
@@ -834,6 +835,13 @@ C:/Users/kathe/helloworld/build/esp-idf/wifi_provisioning/CMakeFiles/list_instal
 C:/Users/kathe/helloworld/build/esp-idf/wifi_provisioning/CMakeFiles/install.dir
 C:/Users/kathe/helloworld/build/esp-idf/wifi_provisioning/CMakeFiles/install/local.dir
 C:/Users/kathe/helloworld/build/esp-idf/wifi_provisioning/CMakeFiles/install/strip.dir
+C:/Users/kathe/helloworld/build/esp-idf/esp-nn/CMakeFiles/__idf_esp-nn.dir
+C:/Users/kathe/helloworld/build/esp-idf/esp-nn/CMakeFiles/edit_cache.dir
+C:/Users/kathe/helloworld/build/esp-idf/esp-nn/CMakeFiles/rebuild_cache.dir
+C:/Users/kathe/helloworld/build/esp-idf/esp-nn/CMakeFiles/list_install_components.dir
+C:/Users/kathe/helloworld/build/esp-idf/esp-nn/CMakeFiles/install.dir
+C:/Users/kathe/helloworld/build/esp-idf/esp-nn/CMakeFiles/install/local.dir
+C:/Users/kathe/helloworld/build/esp-idf/esp-nn/CMakeFiles/install/strip.dir
 C:/Users/kathe/helloworld/build/esp-idf/main/CMakeFiles/__idf_main.dir
 C:/Users/kathe/helloworld/build/esp-idf/main/CMakeFiles/edit_cache.dir
 C:/Users/kathe/helloworld/build/esp-idf/main/CMakeFiles/rebuild_cache.dir

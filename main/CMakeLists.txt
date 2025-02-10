@@ -1,3 +1,3 @@
-idf_component_register(SRCS "main.c"
-                    PRIV_REQUIRES spi_flash
-                    INCLUDE_DIRS "")
+idf_component_register(SRCS "main.cpp"
+                       INCLUDE_DIRS "." "../components/tensorflow_lite/"
+                       REQUIRES esp-nn)
